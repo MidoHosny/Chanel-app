@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">قنواتى</string>
+
+    <string name="add_channel_1">
+         "\n"
+        "\n"
+        1- الدخول الى القائمه
+        "\n"
+        الرئيسيه (Menu) من خلال جهاز الريسيفر الخاص بكم
+        "\n"
+        "\n"
+        2-اختار (installation)
+        "\n"
+        "\n"
+        3-اختار (Manual installation)
+        "\n"
+    </string>
+
+    <string name="add_channel_2">
+         "\n"
+        "\n"
+      4- الضغط على (Select satellite)
+        "\n"
+        عندها سيظهر جميع الاقمار الصناعيه
+        "\n"
+        الموجوده لديك .
+
+        "\n"
+        "\n"
+
+        5-قم باختيار النايل سات اذا كان يوجد لديك هذا القمر
+        "\n"
+        "\n"
+
+    </string>
+    <string name="add_channel_3">
+        "\n"
+        "\n"
+        ستظهر لك نافذه اكتب فيها
+        "\n"
+        التردد
+        "\n"
+        معدل الترميز
+        "\n"
+        الاستقطاب
+        "\n"
+        "\n"
+        6- اضغط على كلمه بحث
+
+    </string>
+    <string name="add_channel_4">
+        "\n"
+        "\n"
+        7- ستأتى عاده رساله اضغط على (yes)
+        "\n"
+
+        وبذلك تصبح القنوات الخاصه بالتردد موجوده فى قائمه القنوات
+    </string>
+</resources>
